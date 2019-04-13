@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.*NOTES\.txt
+^\.RData[.]*
+^\.Rhistory

@@ -1,0 +1,15 @@
+Package: NeverUsesSpacetime
+Type: Package
+Title: Never Uses spacetime
+Version: 0.1.0
+Author: Andre Mikulec
+Maintainer: Andre Mikulec <Andre_Mikulec@Hotmail.com>
+Description: Example Only.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    xts
+Imports:
+    DMwR
+RoxygenNote: 6.1.1
